@@ -11,3 +11,4 @@ else:
     print("В словаре нет такого слова")
 
 change 1
+change 2
