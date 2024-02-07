@@ -9,3 +9,5 @@ if word in meme_dict.keys():
     # Что делать, если слово нашлось?
 else:
     print("В словаре нет такого слова")
+
+change 1
